@@ -53,7 +53,7 @@ body.v2 #payment_request_expiry_date{
         width:92%;
     }
 }
-input[type="text"]:focus,input[type="tel"]:focus{
+input[type="text"]:focus,input[type="tel"]:focus,input:focus:invalid:focus{
     box-shadow: 0 0 7px #0b7f81 !important;
     border-color:#42515a;
 }
