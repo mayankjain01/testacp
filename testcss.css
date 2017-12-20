@@ -55,7 +55,7 @@ body.v2 #payment_request_expiry_date{
 }
 input[type="text"]:focus{
     box-shadow: 0 0 7px #0b7f81 !important;
-    border-color:none;
+    border-color:#42515a;
 }
 
 
