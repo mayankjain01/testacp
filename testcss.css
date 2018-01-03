@@ -9,6 +9,9 @@ ul{
 ul li{
     list-style:none;
 }
+form{
+ margin-bottom:0;
+}
 .alert {
     border:none;
     padding-left:0;
