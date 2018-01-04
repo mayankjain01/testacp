@@ -39,6 +39,7 @@ input[type="text"],input[type="tel"] {
 }
 .control-label{
     font-weight:bold;
+    font-family:"Gotham A", "Gotham B", "Open Sans", Helvetica, sans-serif;
 }
 body.v2 #payment_request_expiry_date{
     width:230px;
@@ -54,9 +55,6 @@ input[type="text"]:focus,input[type="tel"]:focus,input:focus:invalid:focus{
 }
 .control-group:last-child{
     margin-bottom:0; 
-}
-.control-label{
-    font-family:"Gotham A", "Gotham B", "Open Sans", Helvetica, sans-serif;
 }
 
  
