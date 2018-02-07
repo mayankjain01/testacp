@@ -53,6 +53,9 @@ input[type="text"]:focus,input[type="tel"]:focus,input:focus:invalid:focus{
     box-shadow: 0 0 7px #0b7f81 !important;
     border-color:#42515a;
 }
+.control-group{
+    margin-bottom:7px; 
+}
 .control-group:last-child{
     margin-bottom:0; 
 }
