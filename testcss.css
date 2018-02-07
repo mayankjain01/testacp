@@ -19,6 +19,7 @@ form{
       padding-top:0;
     padding-bottom:0;
     /*display:none !important;*/
+    text-shadow:none;
 }
 
 .alert-error {
