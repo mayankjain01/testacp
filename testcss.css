@@ -60,5 +60,8 @@ input[type="text"]:focus,input[type="tel"]:focus,input:focus:invalid:focus{
 .control-group:last-child{
     margin-bottom:0; 
 }
-
+fieldset{
+    padding-left:0;
+    padding-bottom:0;
+}
  
