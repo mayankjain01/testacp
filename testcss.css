@@ -47,7 +47,7 @@ body.v2 #payment_request_expiry_date{
 }
 @media only screen and (max-width: 767px) {
     body.v2 #payment_request_expiry_date{
-        width:92%;
+        width:220px;
     }
 }
 input[type="text"]:focus,input[type="tel"]:focus,input:focus:invalid:focus{
@@ -63,5 +63,6 @@ input[type="text"]:focus,input[type="tel"]:focus,input:focus:invalid:focus{
 fieldset{
     padding-left:0;
     padding-bottom:0;
+    padding-right:0;
 }
  
